@@ -1,0 +1,4 @@
+{
+    "testRepo": "auto-complete-cities-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
